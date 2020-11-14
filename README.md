@@ -1,3 +1,13 @@
-# RingCentralDemo
+# RingCentral Demo for Swift language
 
-A description of this package.
+## Setup
+
+```
+swift build
+```
+
+## Run
+
+```
+swift run
+```

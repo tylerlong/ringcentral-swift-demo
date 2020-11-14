@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "9e0328127dfb801cefe8ac53a13c0c90a7770448",
+          "version": "5.4.0"
+        }
+      },
+      {
+        "package": "RingCentral",
+        "repositoryURL": "https://github.com/ringcentral/ringcentral-swift.git",
+        "state": {
+          "branch": "dev",
+          "revision": "153166744e475e4522109188fde0cb89306aead1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
